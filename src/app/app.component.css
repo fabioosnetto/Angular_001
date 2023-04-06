@@ -1,0 +1,19 @@
+#nav{
+   background-color: rgb(126, 126, 126);
+   border-radius: 10px;
+   padding: 1em;
+   width: fit-content;
+}
+
+a{
+   background-color: rgb(126, 126, 126);
+   color: rgb(29, 29, 29);
+   padding: 1em;
+   text-decoration: none;
+}
+
+.active{
+   background-color: rgb(8, 8, 8);
+   color: white;
+   border-radius: 10px;
+}
